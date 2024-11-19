@@ -1,1 +1,1 @@
-PMURide Application Project for SWE
+PMURide Application
